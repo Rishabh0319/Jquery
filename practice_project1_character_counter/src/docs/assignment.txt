@@ -1,0 +1,23 @@
+Live Character Counter – Problem Statement
+
+Ek input field (ya textarea) create karo
+Niche ek text show ho: Characters: 0
+User jaise hi type kare → character count real-time update ho
+Count me sab include ho: letters, numbers, symbols, spaces bhi
+keyup event use karna hai (live update ke liye)
+Agar count 50 se zyada ho jaye → text ka color red ho jaye
+Agar 50 ya usse kam ho → normal color rahe
+Page reload nahi hona chahiye (pure dynamic behavior)
+
+
+
+
+
+-------------------------
+| Live Character Counter |
+-------------------------
+|                       |
+|   [ textarea box ]    |
+|                       |
+-------------------------
+Characters: 0
